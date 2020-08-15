@@ -15,8 +15,9 @@ import stations from '../constants/Stations'
 import { checkPermission } from 'react-native-android-permissions'
 import Geolocation from '@react-native-community/geolocation'
 import axios from 'axios'
+import { Config } from '../Config/api';
 const { width } = Dimensions.get("screen");
-
+const API_URL = Config.API_URL;
 const thumbMeasure = (width - 48 - 32) / 3;
 const cardWidth = width - theme.SIZES.BASE * 2;
 class FindMyWayScreen extends Component {
@@ -61,7 +62,7 @@ class FindMyWayScreen extends Component {
 
   }
   makeRemoteRequest = () => {
-    const url = `http://192.168.1.12:4000/api/stations`;
+    const url = API_URL + `/stations`;
     this.setState({ loading: true });
 
     axios.get(url)
