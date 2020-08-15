@@ -39,16 +39,19 @@ yarn run android
 
   <dt>Ignite cli (https://github.com/infinitered/ignite)</dt>
   <dd>Boilerplate  + very useful cli to generate containers/components </dd>
-
+  
+   <dt>Google oAuth \ facebook auth</dt>
+  
    <dt>Redux + Redux sauce + Saga </dt>
-   <dd>due to the fact that it was the first react native project there was a misuse in these libs to be corrected in future project   </dd> 
-    
-  <dt>debug/release</dt>
-  <dd>both configs are available in app/config</dd>
+   <dd>Due to the fact that it was the first react native project there was a misuse in these libs to be corrected in future project   </dd> 
+ 
+  <dt>Google oAuth \ facebook auth</dt>
+ 
+  <dt>Debug/Release</dt>
+  <dd>Both configs are available in app/config</dd>
 </dl>
 
 ## Project images
-### BackOffice :
 <img src="/readmeimages/1.png" width="300" height="500"> <img src="/readmeimages/2.png" width="300" height="500"> <img src="/readmeimages/3.png" width="300" height="500">
 <img src="/readmeimages/5.png" width="300" height="500"> <img src="/readmeimages/6.png" width="300" height="500"><img src="/readmeimages/16.png" width="300" height="500">
 <img src="/readmeimages/7.png" width="300" height="500"> <img src="/readmeimages/8.png" width="300" height="500"> <img src="/readmeimages/9.png" width="300" height="500">
