@@ -33,10 +33,10 @@ yarn run android
   <dt>Multi-Platform</dt>
   <dd>this app communicates with a react App</dd>
    
-  <dt> [Galio framework](https://galio.io/)/</dt>
+  <dt> Galio framework (https://galio.io/)/</dt>
   <dd>Ready to use components and themes </dd>
 
-  <dt>[Ignite cli](https://github.com/infinitered/ignite)</dt>
+  <dt>Ignite cli (https://github.com/infinitered/ignite)</dt>
   <dd>Boilerplate  + very useful cli to generate containers/components </dd>
 
    <dt>Redux + Redux sauce + Saga </dt>
