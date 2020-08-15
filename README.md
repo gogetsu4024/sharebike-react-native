@@ -49,6 +49,6 @@ yarn run android
 
 ## Project images
 ### BackOffice :
-<img src="/readmeimages/1.png" width="400" height="400"> <img src="/readmeimages/2.png" width="400" height="400"> <img src="/readmeimages/3.png" width="400" height="400">
+<img src="/readmeimages/1.png" width="300" height="500"> <img src="/readmeimages/2.png" width="300" height="500"> <img src="/readmeimages/3.png" width="300" height="500">
 
 
