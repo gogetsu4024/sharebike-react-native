@@ -3,9 +3,8 @@
 
 ## instructions 
 
-**This app is dependant of the share bike react server 
-
-** Most of the shortcut scripts are in package.json 
+<dt>This app is dependant of the share bike react server</dt> 
+<dt>Most of the shortcut scripts are in package.json </dt>
 
 1. run share bike react node server  [Here](https://github.com/gogetsu4024/sharebike-react)
 
